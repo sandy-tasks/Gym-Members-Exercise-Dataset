@@ -1,5 +1,5 @@
 # 🚀 Capstone Project: [Gym-Members-Exercise-Dataset]
-]
+
 
 ## 📌 Project Overview
 A brief, 2-sentence description of what this project is about and the problem it solves. 
